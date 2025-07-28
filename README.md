@@ -7,3 +7,4 @@ this repo is for when I get a spontaneous idea to make a game that I just do not
 
 ![](hidden_starcoins_do_candies.webp)
 ![](minimal_but_varied_retro_platforming.webp)
+![](start_purely_sidescroll_introduce_depth_later_cam_follow.jpg)
